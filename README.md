@@ -1,0 +1,1 @@
+Online shopping store using react and redux with payment integration.
